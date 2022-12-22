@@ -1,1 +1,3 @@
-# kendra-lacey
+# Hi I'm Kendra
+
+
