@@ -1,5 +1,4 @@
-# Hi I'm Kendra
-:sunrise_over_mountains:
+# Hi I'm Kendra ❀
 
  Pivoting from life as a retail banking maven. I want to write software and make the world a bit better. 🚀
 
