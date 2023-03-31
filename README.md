@@ -21,5 +21,6 @@
  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
  <br>
  ![Kendras's GitHub stats](https://github-readme-stats.vercel.app/api?username=kendra-lacey&show_icons=true&theme=tokyonight)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kendra-lacey&layout=compact)](https://github.com/kendra-lacey/github-readme-stats)
 
 
