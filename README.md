@@ -14,7 +14,6 @@
  I am interested In collabarting with Indivuals that are passionate about what they are building.
  </p>
  <center style="text-align: center;">
- <br>
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kendra-lacey&layout=compact)](https://github.com/kendra-lacey/github-readme-stats)
  <br>
