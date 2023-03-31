@@ -13,9 +13,9 @@
  In my pinned repos below you can find a few of those.<br>
  I am interested In collabarting with Indivuals that are passionate about what they are building.
  </p>
- <center>
+ <center style="text-align: center;">
  <br>
-
+ 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kendra-lacey&layout=compact)](https://github.com/kendra-lacey/github-readme-stats)
  <br>
 📚 Frameworks, Platforms and Libraries<br>
@@ -27,7 +27,7 @@
 <a href="https://github.com/kendra-lacey/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kendra-lacey&show_icons=true&theme=tokyonight" />
 </a>
-
+</center>
 
 
 
