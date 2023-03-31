@@ -13,11 +13,22 @@
  In my pinned repos below you can find a few of those.<br>
  I am interested In collabarting with Indivuals that are passionate about what they are building.
  </p>
+ 
+ <div align="center">
+<h2> Proficiencies: </h2>
 
- <br>
+📋 Languages
+
+  <a href="">![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)</a>
+  <a href="">![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)</a>
+  <a href="">![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)</a>
+   <a href="">![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)</a>
+
+</div>
+
 <div align="center">
 
-📚 Frameworks, Platforms and Libraries<br>
+📚 Frameworks, Platforms and Libraries
 
   <a href="">![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)</a>
   <a href="">![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)</a>
@@ -28,7 +39,7 @@
 
 <div align="center">
 
-💾 Databases<br>
+💾 Databases
 
  <a href="">![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)</a>
   <a href="">![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)</a>
