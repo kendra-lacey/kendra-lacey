@@ -11,7 +11,7 @@
  When I'm not writing code I enjoy hiking,swimming,snowboarding,snuggling my cat Debbie,playing portal and thinking of comedy bits. <br> 
  When thinking about what to build I approach the thought process with : What is a problem I or others around me face? Could I write software that could potentially be a solution ?  <br>
  In my pinned repos below you can find a few of those.<br>
- I am interested In collaborating with Indivuals that are passionate about what they are building.
+ I am interested In collaborating with Individuals that are passionate about what they are building.
  </p>
  
  <div align="center">
