@@ -1,17 +1,12 @@
 
  <h1 align='center'> Hi I'm Kendra </h1>
 <h2 align='center'> I'm a <mark>Software Engineer</mark> located in Upstate NY.</h2><br>
- <p>Pivoting from life as a retail banking maven & Barista. I want to write software and make the world a bit better. 🌎<br>
- Attention to detail is really important in banking, being able to make great espresso is important as a barista.
- Attention to detail 🤝 Caffeine  <br>
-  a match made for writing code.
+ Transitioning from my previous roles in retail banking and as a barista, I now seek to write software that makes a positive impact on the world.🌎 Both attention to detail in banking and the art of crafting perfect espresso have one thing in common: caffeine. And it turns out, attention to detail and caffeine are a match made in heaven for writing code.
 
-<h2 align='center'>About Me:</h2>
+<h2 align='center'>A bit about me:</h2>
 <p>
- When I'm not writing code I enjoy hiking,swimming,snowboarding,snuggling my cat Debbie,playing portal and thinking of comedy bits. <br> 
- When thinking about what to build I approach the thought process with : What is a problem I or others around me face? Could I write software that could potentially be a solution ?  <br>
- In my pinned repos below you can find a few of those.<br>
- I am interested In collaborating with Individuals that are passionate about what they are building.
+When I'm not coding, I love hiking, swimming, snowboarding, cuddling with my cat Debbie, playing Portal, and brainstorming comedy bits. When considering what projects to work on, I ask myself: What problems do I or those around me face? Can I develop software that might offer a solution? In my pinned repositories below, you'll find several examples of my work.
+I'm eager to collaborate with passionate individuals who share a genuine interest in building something meaningful together.
  </p>
  
  <div align="center">
